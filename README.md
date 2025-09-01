@@ -3,8 +3,9 @@
 **Objective:** Enable year-by-year comparison of countries' **CO₂ emissions per capita** with context on **population, GDP, and energy use** for policy analysis.
 
 [▶️ View the Interactive Dashboard](https://public.tableau.com/app/profile/oluwatosin.olaniyan/viz/C02Dataset1/Sheet1)  
+*(Static preview below; PDF inside `/assets`)*
 
-![Preview of the CO2 per capita map](./assets/preview.sheet%201%20(1).pdf)
+![Preview of the CO2 per capita map](./assets/preview.png)
 
 ---
 
